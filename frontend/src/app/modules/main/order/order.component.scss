@@ -1,0 +1,31 @@
+.main-itm-div{
+  margin: 5% 5% 5% 5%;
+  background-color: #57606f;
+  display: flex;
+  width: 90%;
+  height: 80%;
+}
+.itm-left{
+  width: 50%;
+}
+.itm-right{
+  color: azure;
+  background-color: #2f3640;
+  width: 50%;
+  padding: 5% 5% 5% 5%;
+}
+.itm-img{
+  margin: 10% 5% 10% 5%;
+  width: 90%;
+}
+.price-div, .unit-div{
+  display: flex;
+}
+.btn-div{
+  display: flex;
+  justify-content: end;
+}
+.btn-buy, .btn-cancel, .btn-home{
+  padding: 1% 8% 1% 8%;
+  margin-left: 2%;
+}

@@ -1,0 +1,23 @@
+<h1 class="heading">
+  ADMIN
+</h1>
+<hr>
+<div class="tbl-main-admin">
+
+  <nav mat-tab-nav-bar>
+   <a mat-tab-link *ngFor="let tabItem of tabs" routerLinkActive="activated-route" [routerLink]="tabItem.route">
+     <mat-icon class="mr-8">{{tabItem.icon}}</mat-icon>
+     {{tabItem.label}}
+   </a>
+  </nav>
+
+  <router-outlet></router-outlet>
+  <br>
+  <br>
+
+</div>
+<br>
+<br>
+<div class="d-grid gap-2 d-md-flex justify-content-md-end bottom-home-btn">
+  <button type="button" class="btn btn-outline-secondary" routerLink="/main">Home</button>
+</div>

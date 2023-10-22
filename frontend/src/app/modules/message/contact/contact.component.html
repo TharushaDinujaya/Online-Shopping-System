@@ -1,0 +1,22 @@
+<div class="contact">
+  <div class="input-group mb-3">
+    <div class="input-group-prepend">
+      <span class="input-group-text" >Customer Name</span>
+    </div>
+    <input type="text" class="form-control" #name>
+  </div>
+
+  <div class="mb-3">
+    <label for="validationTextarea">Message</label>
+    <textarea class="form-control" id="validationTextarea" placeholder="Required example textarea" required #message></textarea>
+  </div>
+
+
+  <ul class="nav justify-content-end">
+    <li class="nav-item">
+      <a class="nav-link active" href="#">
+        <button type="button" class="btn btn-primary" (click)="send(name.value, message.value)" routerLink="/main">Submit</button>
+      </a>
+    </li>
+  </ul>
+</div>

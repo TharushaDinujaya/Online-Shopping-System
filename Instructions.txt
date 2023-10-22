@@ -1,0 +1,13 @@
+Created by Tharusha Dinujaya CMJD90
+
+Run Project Api with nodemon
+
+Import items.json file to mongoDB database. if error occurred use postmancode.txt and save link is http://localhost:3000/api/v1/item/save
+
+run AbcShopping  link is http://localhost:4200/main
+
+[
+api :- 3000
+abcShopping : 4200
+mondoDB : 27017
+]

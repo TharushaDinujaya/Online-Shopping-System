@@ -1,0 +1,24 @@
+<table class="table table-dark table-striped">
+  <thead>
+  <tr>
+    <th>number</th>
+    <th>Name</th>
+    <th>Item Name</th>
+    <th>Units</th>
+    <th>Price</th>
+    <th>code</th>
+    <th>Remove</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let temp of orderdataset; index as num">
+    <td>{{num+1}}</td>
+    <td>{{temp.name}}</td>
+    <td>{{temp.itm}}</td>
+    <td>{{temp.units}}</td>
+    <td>{{temp.price}}</td>
+    <td>{{temp.code}}</td>
+    <td><button class="btn btn-danger" (click)="delete(temp.code)"> remove </button></td>
+  </tr>
+  </tbody>
+</table>

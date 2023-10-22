@@ -1,0 +1,43 @@
+
+<table class="table table-dark table-striped">
+  <thead>
+  <tr>
+    <th>number</th>
+    <th>Name</th>
+    <th>Password</th>
+    <th>Remove</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let temp of userdataset; index as num">
+    <td>{{num+1}}</td>
+    <td>{{temp.name}}</td>
+    <td>{{temp.password}}</td>
+    <td><button class="btn btn-danger" (click)="delete(temp.name)"> remove </button></td>
+  </tr>
+  </tbody>
+</table>
+<div class="add-user-div">
+    <div class="form-group">
+      <form >
+        <mat-form-field appearance="outline" [style.width.%]=80>
+          <mat-label>User Name</mat-label>
+          <input type="text" matInput name="username" #name>
+        </mat-form-field>
+      </form>
+
+      <form >
+        <mat-form-field appearance="outline" [style.width.%]=80>
+          <mat-label>Password</mat-label>
+          <input type="password" name="password" #password matInput matInput>
+        </mat-form-field>
+      </form>
+
+      <div>
+        <br>
+        <button type="submit" mat-raised-button color="primary" (click)="submitForm(name.value, password.value)">
+          Save User
+        </button>
+      </div>
+    </div>
+</div>

@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "61f73092d4a27f102f3b01ae"
+  },
+  "code": "I001",
+  "name": "JBL Clip 3, Black",
+  "des1": "SOUND TO GO - Never leave awesome sound at home again. This ultra-portable, waterproof Bluetooth speaker is small in size but with surprisingly big sound. Clip it on with the built-in carabiner, press play, and make the moment pop.",
+  "des2": "UP TO 10 HOURS OF PLAYTIME - The JBL Clip 3 features a built-in rechargeable Li-ion battery with up to 10 hours of battery life, plus a metal carabiner so you can easily hook it to your clothes, backpack, or belt loop.",
+  "des3": "WATERPROOF & DURABLE - No more worrying about rain or spills: JBL Clip 3 is completely waterproof—you can even immerse it in water. Plus, the improved, durable fabric material and rugged rubber housing protects it on all of your outdoor adventures.",
+  "price": 10000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f733b0d4a27f102f3b01b0"
+  },
+  "code": "I002",
+  "name": "GoPro HERO10 Black",
+  "des1": "Revolutionary Processor: Faster. Smoother. Better. The powerful new GP2 engine changes the game—snappy performance, responsive touch controls and double the frame rate for amazingly smooth footage. Designed specifically for the demanding nature of the GoPro, the GP2 “system on a chip” is by far our fastest ever.",
+  "des2": "High-Res Photos plus Videos, High Frame Rate: Step up to the sharpest-shooting GoPro ever. Upgraded to incredible 23MP photos and 5.3K video resolution at 60fps, HERO10 offers double the frame rate for amazingly smooth motion. Plus, there’s 8x slo-mo at 2.7K and you can pause videos and grab 15.8MP still photos from 5.3K video that look amazing.",
+  "des3": "HyperSmooth 4.0: HyperSmooth has never been smoother, and it’s easy to dial in the best stabilization at all times. Plus, get even better low-light performance and horizon leveling with a higher tilt limit, so your footage looks perfectly straight when you want it.",
+  "price": 120000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f733bdd4a27f102f3b01b2"
+  },
+  "code": "I003",
+  "name": "Sony Alpha a7 IIK",
+  "des1": "World’s first 5 axis in body image stabilization in a full frame camera",
+  "des2": "Capture stunning images with full frame, 24.3MP resolution. Lens Compensation: Peripheral shading, chromatic aberration, distortion",
+  "des3": "Fast hybrid AF with phase detection: 30 percent faster than a7.Compatible with Sony’s E mount lenses, and others with adaptors",
+  "price": 280000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f733c5d4a27f102f3b01b4"
+  },
+  "code": "I004",
+  "name": "Tiksounds Wireless Earbuds",
+  "des1": "35 Hours Playtime and HiFi Stereo Sound Quality: Once fully charged for this X15 wireless headphones gives you a full 7 hours of listening, while the charging case extends that to 35 hours. Adopted advanced polyurethane drivers to avoid bulky size, provides authentic sound with deep bass even in a small size.",
+  "des2": "One Step Pairing and Smart Touch Control: Open the lid of charging case and wireless headphones will automatically connect to the last paired device. Bluetooth headphones with intelligent touch control button is multifunctional, such as play music, answer the call switch songs and activate Siri.",
+  "des3": "IPX7 Waterproof: X15 Wireless headphones boast IPX7 rated protection that resist daily splashes of water, sweat, rain. Perfect for fitness and travelling.Ergonomic Design and Easy To Carry: Bluetooth earphones are ergonomic and equipped with 3 silicone caps, designed for different ear shapes to ensure a comfortable fit. Charging case is small, only 42g and can be easily stowed in your pocket.",
+  "price": 40000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f733ccd4a27f102f3b01b6"
+  },
+  "code": "I005",
+  "name": "Amazon Fire TV",
+  "des1": "Brilliant 4K entertainment - Bring movies and shows to life with support for vivid 4K Ultra HD, HDR 10, HLG, and Dolby Digital Plus.",
+  "des2": "Fire TV Alexa Voice Remote - Press and ask to find favorite apps, movies, and shows, plus check the weather, sports scores, and more.Watch what you want - Stream over 1 million movies and TV episodes. Watch favorites with subscriptions to Netflix, Prime Video, Disney+, and more.",
+  "des3": "Smart and always getting smarter - Fire TV adds new Alexa skills, features, smart home capabilities, and voice functionality all the time.Connect all your devices - Use the 3 HDMI inputs to connect to cable or satellite and video game consoles. The HDMI eARC lets you add audio equipment for enhanced sound.",
+  "price": 150000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f733d3d4a27f102f3b01b8"
+  },
+  "code": "I006",
+  "name": "Alienware m15 R4 Gaming Laptop",
+  "des1": "15.6-inch FHD (Full HD 1920 x 1080) 144Hz 7ms 300-nits 72% color gamut.10th Generation Intel Core i7-10870H (8-Core, 16MB Cache, up to 5.0GHz Max Turbo Frequency).",
+  "des2": "16GB 2933MHz DDR4 , 512 GB M.2 PCIe NVMe SSD.NVIDIA GeForce RTX 3060 6GB GDDR6.",
+  "des3": "Killer Wi-Fi 6 AX1650i 802.11ax 2x2 Wireless LAN + Bluetooth 5.1.",
+  "price": 540000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f733dad4a27f102f3b01ba"
+  },
+  "code": "I007",
+  "name": "ASUS ProArt Display PA247CV 23.8” Monitor",
+  "des1": "23.8-inch Full HD (1920 x 1080) LED backlight display with IPS 178° wide viewing angle panel.International color standard 100% sRGB and 100% Rec. 709 wide color gamut.",
+  "des2": "Calman Verified with factory calibrated for excellent Delta E < 2 color accuracy.Extensive connectivity including DisplayPort over USB-C with 65W Power Delivery, DisplayPort, HDMI, USB 3.1 hub.",
+  "des3": "75Hz refresh rate and Adaptive-Sync technology (48~75Hz) to animated content with fast action and eliminate screen tearing.Daisy-chaining allows users to daisy chain up to four monitors for a multi-display workstation via DisplayPort.",
+  "price": 78000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f733e1d4a27f102f3b01bc"
+  },
+  "code": "I008",
+  "name": "Bose QuietComfort 45 Headphones",
+  "des1": "High-fidelity audio – The TriPort acoustic architecture offers depth and fullness. Volume-optimized Active EQ maintains balanced performance at any volume, so bass stays consistent when turned down and the music remains clear when turned up.",
+  "des2": "Quiet and Aware Modes – Choose Quiet Mode for full noise cancelling, or Aware Mode to bring the outside into the around ear headphones and hear your environment and your music at the same time.Over ear headphones – These comfortable wireless headphones are suitable for all-day wear. Crafted with plush synthetic leather and impact-resistant nylon, and designed with minimal clamping force, they’re as luxurious as they are durable.",
+  "des3": "Around ear headphones charge via USB-C – Headphones charge via the included USB-C cable.Bluetooth wireless noise cancelling headphones – These headphones are optimized for a strong, reliable Bluetooth connection within 30 feet of the paired device.",
+  "price": 50000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f735ead4a27f102f3b01d0"
+  },
+  "code": "I009",
+  "name": "MSI Gaming GeForce RTX 3060 12GB",
+  "des1": "Chipset: NVIDIA GeForce RTX 3060.Video Memory: 12GB GDDR6.",
+  "des2": "Memory Interface: 192-bit.Output: DisplayPort x 3 (v1.4a) / HDMI 2.1 x 1.",
+  "des3": "Digital maximum resolution: 7680 x 4320.",
+  "price": 100000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f735ffd4a27f102f3b01d4"
+  },
+  "code": "I011",
+  "name": "TOPOSH 11.6 inch 2 in 1 Laptop Tablet Computer",
+  "des1": "COMPACT AND LIGHT WEIGHT: The 2 in 1 laptop tablet is only 1.1 kgs,with 11.6 inch screen which has good brightness and good resolution FullHD 1920 X 1080 p, up to 90% screen to body ratio.INTERFACES: This laptop is equipped with abundant ports:Android interface X 1, SD card slot X 1, Micro HDMI interface X 1, USB 3.0Type-C interface X 1, Headphone jack interface X 1,support vairous of extra function.",
+  "des2": "UNIQUE 360 ROTATION DESIGN AND TOUCH SCREEN:The 360 Degree Rotation design supports you to use in different modes.And The Touch Screen is super convenient for you to switch pages freely.It supports Windows 10 operating system, and powerfully equipped with Intel Celeron N4120 processor.",
+  "des3": "MEMORIES: Built-in Integrated 2 MegaPixels HD camera and It have 8 GB RAM memory and 256 GB storage. Its256 GB SSD memory can be supplemented by an SSD hard disk with a capacity of up to 2 TB. And the TF card maximum support 128GB.LONG BATTERY LIFE: Our 2 in 1 laptop tablet is equiped with 1 pc large capacity of 4000 mAh battery for at least 3 hours' using. And stand-by time is 48 hours.In TOPOSH,more laptops await your choice.",
+  "price": 190000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f73607d4a27f102f3b01d6"
+  },
+  "code": "I012",
+  "name": "SAMSUNG Galaxy Tab S7",
+  "des1": "PC PERFORMANCE. TABLET PORTABILITY: Transform your tablet into a PC experience with DeX mode and the optional keyboard¹ with expanded trackpad. (Keyboard sold separately).ENTERTAINMENT, UPGRADED: Experience cinematic viewing with larger edge-to-edge displays, TFT LCD screen, and AKG quad speakers with Dolby Atmos Surround sound.PC PERFORMANCE. TABLET PORTABILITY: Transform your tablet into a PC experience with DeX mode and the optional keyboard¹ with expanded trackpad. (Keyboard sold separately).ENTERTAINMENT, UPGRADED: Experience cinematic viewing with larger edge-to-edge displays, TFT LCD screen, and AKG quad speakers with Dolby Atmos Surround sound.",
+  "des2": "REDESIGNED S PEN INCLUDED: With improved 9ms Pen latency, the redesigned S Pen can control presentations and take notes effortlessly.CHANGE THE WAY YOU GAME: Bring console gaming anywhere thanks to available Wi-Fi connection, an immersive screen, and Bluetooth-enabled controller.",
+  "des3": "CHARGE FAST. POWER FOR HOURS: Go for hours on a single charge, and back to 100% with the fast-charging USB-C port.CAPTURE AND CONNECT: Experience stunning brightness and clarity with the wide 13MP and ultra-wide 5MP dual back, and 8MP front-facing cameras.SYNC AND SEND FROM ANYWHERE: Easily sync up and share content with compatible Samsung devices.",
+  "price": 160000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f7360ed4a27f102f3b01d8"
+  },
+  "code": "I013",
+  "name": "Apple iPhone 12 Pro Max",
+  "des1": "Unlocked and compatible with any carrier of choice on GSM and CDMA networks (e.g. AT&T, T-Mobile, Sprint, Verizon, US Cellular, Cricket, Metro, Tracfone, Mint Mobile, etc.).Tested for battery health and guaranteed to come with a battery that exceeds 90% of original capacity.",
+  "des2": "Inspected and guaranteed to have minimal cosmetic damage, which is not noticeable when the device is held at arm's length. Successfully passed a full diagnostic test which ensures like-new functionality and removal of any prior-user personal information.",
+  "des3": "Includes a brand new, generic charging cable that is certified Mfi (Made for iPhone) and a brand new, generic wall plug that is UL certified for performance and safety. Also includes a SIM tray removal tool but does not come with headphones or a SIM card.Backed by a one-year satisfaction guarantee.",
+  "price": 305000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f73617d4a27f102f3b01da"
+  },
+  "code": "I014",
+  "name": "Samsung Electronics (MZ-V8V500B/AM) 980 SSD 500GB",
+  "des1": "KEEP MOVING WITH FULL POWER MODE Keep your SSD running at its peak with Full Power Mode, which drives continuous and consistent high performance.RELIABLE THERMAL CONTROL 980 uses nickel coating to help manage the controller's heat level and a heat spreader label to deliver effective thermal control of the NAND chip.",
+  "des2": "UPGRADE TO IMPRESSIVE NVMe SPEED Whether you need a boost for gaming or a seamless workflow for heavy graphics, the 980 is a smart choice for outstanding SSD performance.PACKED WITH SPEED 980 delivers value, without sacrificing sequential read/write speeds up to 3,500/3,000 MB/s, supports Device Sleep Mode.",
+  "des3": "SMART THERMAL SOLUTION Embedded with Samsung's cutting edge thermal control algorithm, 980 manages heat on its own to deliver durable and reliable performance, while minimizing performance fluctuations during extended usage.SAMSUNG MAGICIAN SOFTWARE Monitor drive health, optimize performance, protect valuable data, and receive important updates with Magician to ensure you're always getting the best performance out of your SSD.",
+  "price": 12000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f736b6d4a27f102f3b01e5"
+  },
+  "code": "I010",
+  "name": "Echo Dot Smart speaker with Alexa",
+  "des1": "Meet Echo Dot - Our most compact smart speaker that fits perfectly into small spaces.Improved speaker quality - Better speaker quality than Echo Dot Gen 2 for richer and louder sound. Pair with a second Echo Dot for stereo sound.",
+  "des2": "Voice control your music - Stream songs from Amazon Music, Apple Music, Spotify, Sirius XM, and others.Ready to help - Ask Alexa to play music, answer questions, read the news, check the weather, set alarms, control compatible smart home devices, and more.",
+  "des3": "Voice control your smart home - Turn on lights, adjust thermostats, lock doors, and more with compatible connected devices. Create routines to start and end your day.Connect with others hands-free - Call friends and family who have the Alexa app or an Echo device. Instantly drop in on other rooms in your home or make an announcement to every room with a compatible Echo device.",
+  "price": 35000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f73830d4a27f102f3b01e9"
+  },
+  "code": "I015",
+  "name": "AMD Ryzen 5 5600G 6-Core 12-Thread",
+  "des1": "Features best-in-class graphics performance in a desktop processor for smooth 1080p gaming, no graphics card required.",
+  "des2": "6 Cores and 12 processing threads, bundled with the AMD Wraith Stealth cooler.",
+  "des3": "4.4 GHz Max Boost, unlocked for overclocking, 19 MB cache, DDR4-3200 support.For the advanced Socket AM4 platform.",
+  "price": 35000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f73837d4a27f102f3b01eb"
+  },
+  "code": "I016",
+  "name": "MSI B550M PRO-VDH WiFi ProSeries Motherboard",
+  "des1": "Support for 3rd Gen AMD Ryzen processors and future AMD Ryzen processors with BIOS update.Supports dual channel DDR4 memory up to 128 GB (4400 MHz).",
+  "des2": "Lightning Fast Game experience: PCIe 4.0, Lightning Gen 4 M.2 with M.2 Shield Frozr, AMD Turbo USB 3.2 GEN 2.Core Boost technology combines optimized power circuit layouts and digital power regulation which allows for precise and steady current delivery to the CPU.",
+  "des3": "AUDIO BOOST rewards your ears with studio grade sound quality for immersive gaming experiences.Premium Thermal Solution: Heatsink thermal pad rated for 7W/mk and PCB with 2oz thickened copper.Flash BIOS Button lets users flash the BIOS even without a CPU or memory.",
+  "price": 32000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f73841d4a27f102f3b01ed"
+  },
+  "code": "I017",
+  "name": "Roku Streaming Stick+",
+  "des1": "Wireless that goes the distance: Basement rec room Backyard movie night Bring ‘em on. The long-range wireless receiver gives you extended range and a stronger signal for smooth streaming even in rooms farther from your router.Brilliant picture quality: Experience your favorite shows with stunning detail and clarity—whether you’re streaming in HD, 4K, or HDR, you’ll enjoy picture quality that’s optimized for your TV with sharp resolution and vivid color.",
+  "des2": "Tons of power, tons of fun: Snappy and responsive, you’ll stream your favorites with ease—from movies and series on Apple TV, Prime Video, and Netflix, to cable alternatives like Sling, enjoy the most talked-about TV across thousands of channels.No more juggling remotes: Power up your TV, adjust the volume, mute, and control your streaming all with one remote—use your voice to quickly search across channels, turn captions on, and more in a touch.",
+  "des3": "Setup is a cinch: Plug it in, connect to the internet, and start streaming—it’s that simple.Private listening on mobile: Use the free Roku mobile app to pump up the volume on your shows without disturbing the house.Endless entertainment: Stream what you love, including free TV, live news, sports, and more. It’s easy to stream what you love and cut back on cable bills with access to 500,000+ movies and TV episodes across thousands of free and paid channels.",
+  "price": 8000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f73849d4a27f102f3b01ef"
+  },
+  "code": "I018",
+  "name": "Yootech Wireless Charger,Qi-Certified 10W Max Fast Wireless Charging Pad",
+  "des1": "7.5W charging mode is for iPhone 13/13 Pro/13 Mini/13 Pro Max/12/SE 2020/11/XS/XR/X/8 with latest iOS System; 10W charging mode is compatible with S21/S20/Note 10/10 Plus/S10/S10 Plus/S10E and so on; 5W charging mode works on Any Qi-enabled devices like Google Pixel 3/3XL/4XL and other Qi-enabled phones. Note: Adapter is Not Included, QC 2.0/3.0 adapter, iPhone 11 Pro /11 Pro Max PD Adapter, Note 10/10 Plus PD Adapter will be highly recommended.",
+  "des2": "It is compatible with AirPods (with wireless charging case) and AirPods Pro. The size of the AirPods fits perfectly into the charging area of the wireless charging pad, perfect wireless charging companion for AirPods, easier to find the “Sweet Spot”. Also, both top and bottom have a rubber ring, will keep your AirPods in place and prevent slippage.",
+  "des3": "Exclusive Multifunctional Intelligent Protect Technology provides temperature control, surge protection, short-circuit prevention. Besides that, this wireless chargers is Qi-certified, made of ABS Material which is fire-resistant, and has a UL Certificate, you can purchase it at assurance. Double guarantee and dual safety provide you safety experience. To get better experience, we would like you to take off the phone case and use the adapters recommended (NOT INCLUDED).",
+  "price": 2500,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f73851d4a27f102f3b01f1"
+  },
+  "code": "I019",
+  "name": "WAVLINK AC2100 WiFi Router",
+  "des1": "WAVLINK AC2100 Router upgrades upgrades to 2100 Mbps high speed internet with combined wireless speeds of 2.4GHz 300Mbps and 5GHz 1733Mbps, reducing buffering and ideal for 4K stream.",
+  "des2": "Wireless router provides 1 x Gigabit WAN port and 4 Gigabit LAN ports, ideal for multiple internet plans. This computer router also provides a USB3.0 Port to share files & media with networked devices.",
+  "des3": "6 Antennas strongly boost WiFi range, giving you powerful wired and wireless internet network speeds. MU-MIMO technology allows high speeds for multiple devices simultaneously.",
+  "price": 14000,
+  "stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f73858d4a27f102f3b01f3"
+  },
+  "code": "I020",
+  "name": "Security Camera 2K, blurams Baby Monitor Dog Camera 360",
+  "des1": "360°Coverage with 2K Resolution - blurams security camera automatically tracks the motion if detect motion. Features in IR-CUT function to capture crisp videos and photos from the day to night, even in the dim condition. Turn on privacy mode to protect your privacy.Smart AI Detection & Instant Alerts - Receive instant alerts on your phone if human, motion or abnormal sound detected in your house. Automatically record a 10-15 seconds alert video to the cloud and it will be saved for 24 hours (no subscription or monthly fees required).",
+  "des2": "Smart Integration - Use your simple voice command to view blurams baby monitor live stream on Alexa or Google Assistant device with a screen or on your iPhone or iPad. Works with IFTTT lets you link just about any set of smart devices so they can work together, make your home more relaxing.Enhanced blurams App - Live viewing 4 dog cameras simultaneously on App or official web portal. Share your camera with unlimited family members. Two-way audio allows you to receive and transmit audio from anywhere at any time. Works with 2.4GHz Wi-Fi networks only (does not support 5GHz Wi-Fi).",
+  "des3": "Optional Cloud & Local Storage - 24/7 CVR enables the indoor security camera to keep a nonstop recording in the cloud, avoid the risk of losing video footage from a SD card. According to the time, events type or the camera name’s to search the specific event quickly. Supports up to 128GB SD card(buy separately).",
+  "price": 5500,
+  "stock": 10,
+  "__v": 0
+}]

@@ -1,0 +1,88 @@
+<div class="main-itm-div">
+  <div class="itm-left">
+    <img src="../../../../../assets/item-images/{{code}}.jpg" alt="" class="itm-img">
+  </div>
+  <div class="itm-right">
+    <h1>
+      {{itemname}}
+    </h1>
+
+    <br>
+    <br>
+    <div class="price-div">
+      <h3>
+        Price :
+      </h3>
+      <h3>
+        {{price}}
+      </h3>
+    </div>
+    <div class="unit-div">
+      <h3>
+        Available Units :
+      </h3>
+      <h3>
+        {{stock}}
+      </h3>
+    </div>
+
+    <hr>
+    <form>
+      <mat-form-field appearance="fill" [style.width.%]=80>
+        <mat-label>Units</mat-label>
+        <input type="number" min="0" matInput placeholder="Units" max="{{stock}}" #itmunits (keyup)="calculate(itmunits.value)">
+      </mat-form-field>
+      <br>
+      <mat-label>Price :{{amount}}</mat-label>
+    </form>
+
+    <br>
+
+    <form>
+      <mat-form-field appearance="fill" [style.width.%]=80>
+        <mat-label>User Name</mat-label>
+        <input type="text" matInput placeholder="Units" #username  #itmunits>
+      </mat-form-field>
+    </form>
+
+    <hr>
+
+    <div class="btn-div">
+      <button type="button" class="btn btn-primary btn-buy" (click)="placeOrder(username.value, itmunits.value)" routerLink="/main">Buy</button>
+      <button type="button" class="btn btn-secondary btn-cancel" routerLink="/main">Cancel</button>
+    </div>
+
+    <br>
+    <hr>
+
+    <div class="btn-div">
+      <button type="button" class="btn btn-light btn-home" routerLink="/main">Home</button>
+    </div>
+
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

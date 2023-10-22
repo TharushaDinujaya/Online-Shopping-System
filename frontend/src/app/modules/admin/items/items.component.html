@@ -1,0 +1,81 @@
+<h3>
+
+</h3>
+<table class="table table-dark table-striped">
+  <thead>
+  <tr>
+    <th>number</th>
+    <th>code</th>
+    <th>name</th>
+    <th>price</th>
+    <th>Available Units</th>
+    <th>Edit</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let temp of itemdataset; index as num">
+    <td>{{num+1}}</td>
+    <td>{{temp.code}}</td>
+    <td>{{temp.name}}</td>
+    <td>{{temp.price}}</td>
+    <td>{{temp.stock}}</td>
+    <td><button class="btn btn-success" (click)="search(temp.code, temp.name)"> Edit </button></td>
+  </tr>
+  </tbody>
+</table>
+<br>
+
+<div class="add-item-div">
+
+      <div class="form-group">
+        <form >
+          <mat-form-field appearance="outline" [style.width.%]=80>
+            <mat-label>Item Name</mat-label>
+            <input type="text" matInput value="{{itemname}}" #itmname>
+          </mat-form-field>
+        </form>
+
+            <mat-label>Item Code : {{itemcode}}</mat-label>
+        <br>
+
+        <form>
+        <mat-form-field appearance="outline" [style.width.%]=80>
+          <mat-label>Item Description -1 </mat-label>
+          <input type="text" matInput value="{{des1}}" #itmdes1>
+        </mat-form-field>
+      </form>
+
+      <form>
+        <mat-form-field appearance="outline" [style.width.%]=80>
+          <mat-label>Item Description -2</mat-label>
+          <input type="text" matInput value="{{des2}}" #itmdes2>
+        </mat-form-field>
+      </form>
+
+      <form>
+          <mat-form-field appearance="outline" [style.width.%]=80>
+            <mat-label>Item Description -3</mat-label>
+            <input type="text" matInput value="{{des3}}" #itmdes3>
+          </mat-form-field>
+      </form>
+
+        <form>
+          <mat-form-field  appearance="outline" [style.width.%]=80>
+            <mat-label>Price</mat-label>
+            <input type="number" min="0" matInput value="{{price}}" #itmprice>
+          </mat-form-field>
+        </form>
+
+        <form>
+          <mat-form-field appearance="outline" [style.width.%]=80>
+            <mat-label>Stock</mat-label>
+            <input type="number" min="0" matInput value="{{stock}}" #itmstock>
+          </mat-form-field>
+        </form>
+
+      </div>
+    <button mat-raised-button color="primary" routerLink="/admin"
+            (click)="update(itmname.value, itmdes1.value, itmdes2.value, itmdes3.value, itmprice.value, itmstock.value)">
+      Save Item
+    </button>
+</div>
